@@ -51,9 +51,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </h3>
 
-[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial)](https://github.com/All4Comfort/github-readme-stats)
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
