@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>👋 안녕하세요. 이한울입니다.</h1>
-<h2>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
+<h4>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
 공부해온 것들로 작은 프로젝트부터 만들고 있습니다.</br>
-언젠가 일상을 조금더 편리하게 해줄 기발한 프로그램을 제작하는 날까지! 공부는 계속됩니다 😎</h2>
+언젠가 일상을 조금더 편리하게 해줄 기발한 프로그램을 제작하는 날까지! 공부는 계속됩니다 😎</h4>
 </br>
 </hr>
 <h2>💻 Skill</h2>
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </h3>
 </hr>
-[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
