@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h5>💻 Skill</h5>
 
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
 
-![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=dracula)
