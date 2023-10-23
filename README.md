@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h5>💻 Skill</h5>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort)](https://github.com/All4Comfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial)](https://github.com/All4Comfort/github-readme-stats)
 
 [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
