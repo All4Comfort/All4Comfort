@@ -1,5 +1,3 @@
-### Hi, I'm Han Ul 👋
-
 <!--
 **All4Comfort/All4Comfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>👋 안녕하세요. 이한울입니다.</h1>
+<h3>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</h3>
+<h3>공부해온 것들로 작은 프로젝트부터 만들고 있습니다.</h3>
+<h3>언젠가 일상을 조금더 편리하게 해줄 기발한 프로그램을 제작하는 날까지! 공부는 계속됩니다 😎</h3>
 
-<h1>💻 Skill</h5>
+<h2>💻 Skill</h2>
 <!--이클립스 로고-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <!--VS코드 로고-->
