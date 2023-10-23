@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=festivalBoard)](https://github.com/All4Comfort/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
