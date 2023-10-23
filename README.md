@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&theme=shadow_red)](https://github.com/All4Comfort/LibraryManagement)
