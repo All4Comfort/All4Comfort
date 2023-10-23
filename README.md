@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <h3>언젠가 일상을 조금더 편리하게 해줄 기발한 프로그램을 제작하는 날까지! 공부는 계속됩니다 😎</h3>
 
 <h2>💻 Skill</h2>
+<h3>Tool
 <!--이클립스 로고-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <!--VS코드 로고-->
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></h3>
+<h3>Languages
 <!--HTML5 로고-->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <!--css3 로고-->
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 <!--부트스트랩 로고-->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <!--리액트 로고-->
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></h3>
 <!--스프링부트 로고-->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <!--마리아 DB 로고-->
@@ -39,13 +41,10 @@ Here are some ideas to get you started:
 <!--마이SQL 로고-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-
-
-
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial)](https://github.com/All4Comfort/github-readme-stats)
 
-[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
-
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&theme=shadow_red)](https://github.com/All4Comfort/LibraryManagement)
+-->
