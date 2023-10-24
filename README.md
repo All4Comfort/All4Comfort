@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 <img src="images\github-header-bigger.png"/>
 <div align="center">
-  <h3>
-    🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
+
+# 👋 Hi, I'm Han Ul 🌱
+  <p style="font-size:15px">
+    </br>
     일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!!</br>
-    공부는 계속됩니다 😎
-  </h3>
+    공부는 계속됩니다 🐾😎
+  </p>
   </br>
 
   ## 💻 Skill
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
     <!--<h3>Languages</h3>-->
     <h3>
     <!--HTML5 로고-->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height=15/>
     <!--css3 로고-->
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <!--자바스크립트 로고-->
