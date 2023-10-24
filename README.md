@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <h3>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
 공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
-일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!! 공부는 계속됩니다 😎</h3>
+일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!!</br>공부는 계속됩니다 😎</h3>
 </br>
-
+<div align="left">
 ## 💻 Skill
 
 <!--<h3>Languages</h3>-->
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <!--VS코드 로고-->
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></h3>
 </hr>
+</div>
 
 [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
