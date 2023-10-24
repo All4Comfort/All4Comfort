@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 <img src="images\github-header-bigger.png"/>
 <div align="center">
 
-## 👋 Hi, I'm Han Ul 🌱
-  <p style="font-family;">
-    I am a beginner developer.</br>
-    I want to develop programs through that we feel more comfortable in our everyday lives.🐾</br>
-    Until that day, I'll keep studying.😎
-  </p>
+## 👋 Hi, I'm Han Ul 
+  <h3>
+    🌱 I am a beginner developer.</br>
+    I want to develop programs through that we feel more comfortable in our everyday lives.😎</br>
+    Until that day, I'll keep studying.🐾
+  </h3>
   
 
   ## 💻 Skill
