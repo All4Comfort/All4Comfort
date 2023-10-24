@@ -23,6 +23,10 @@ Here are some ideas to get you started:
     Until that day, I'll keep studying.🐾
   </h3>
   </br>
+
+  <!--방문자 수 배지-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%2345A4C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  </br>
 </div>
 
 <div align="center">
@@ -80,7 +84,4 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&theme=shadow_red)](https://github.com/All4Comfort/LibraryManagement)
   -->
-
-  <!--방문자 수 배지-->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%2345A4C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
