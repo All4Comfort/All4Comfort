@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color:black">
-<img src="images\github-header.png"/>
-<h1 color="white">👋 안녕하세요. 이한울입니다.</h1>
-<div><h3 color="white">🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</h3>
-<p color="white">공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
-언젠가 일상을 조금더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!! 공부는 계속됩니다 😎</p></div>
+<img src="images\github-header-bigger.png"/>
+<h1>👋 안녕하세요. 이한울입니다.</h1>
+<div><h3>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</h3>
+<p>공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
+일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!! 공부는 계속됩니다 😎</p></div>
 </br>
 </hr>
-<h2 color="white">💻 Skill</h2>
+<h2>💻 Skill</h2>
 <!--<h3>Tool</h3>-->
 <h3>
 <!--이클립스 로고-->
@@ -36,6 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <!--자바스크립트 로고-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<!--자바 로고-->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 <!--부트스트랩 로고-->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </h3>
@@ -63,4 +64,3 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&theme=shadow_red)](https://github.com/All4Comfort/LibraryManagement)
 -->
-<div>
