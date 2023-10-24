@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 <img src="images\github-header-bigger.png"/>
 
-<!--<h1>👋 안녕하세요. 이한울입니다.</h1>-->
 <h3>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
 공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
 일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!! 공부는 계속됩니다 😎</h3>
 </br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23070707&title_bg=%2377BDE5&icon=&icon_color=%23B973D4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>💻 Skill</h2>
 <!--<h3>Tool</h3>-->
@@ -57,9 +58,11 @@ Here are some ideas to get you started:
 </h3>
 </hr>
 
-[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red&count_private = true)](https://github.com/All4Comfort/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact)](https://github.com/All4Comfort/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)-->
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&theme=shadow_red)](https://github.com/All4Comfort/FestivalBoard)
