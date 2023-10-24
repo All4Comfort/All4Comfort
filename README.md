@@ -31,38 +31,38 @@ Here are some ideas to get you started:
     <!--HTML5 로고-->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height=20/>
     <!--css3 로고-->
-    <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" height=20/>
     <!--자바스크립트 로고-->
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" height=20/>
     <!--부트스트랩 로고-->
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height=20/>
     <!--리액트 로고-->
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" height=20/>
     <!--스프링부트 로고-->
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height=20/>
     </h3>
     <h3>
     <!--자바 로고-->
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height=20>
     </h3>
     <h3>
     <!--마리아 DB 로고-->
-    <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white" height=20/>
     <!--마이SQL 로고-->
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height=20/>
     </h3>
     <!--<h3>Tool</h3>-->
     <h3>
     <!--이클립스 로고-->
-    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white" height=20/>
     <!--VS코드 로고-->
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></h3>
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height=20/></h3>
     <!--<h3>형상 관리</h3>-->
     <h3>
     <!--깃 로고-->
-    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" height=20/>
     <!--깃허브 로고-->
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></h3>
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" height=20/></h3>
     </hr>
   </div>
 
