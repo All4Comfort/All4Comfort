@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   </br>
 </div>
 
+<div align="center"></div>
+
 <div align="center">
 
   ## 💻 Study
@@ -72,13 +74,14 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-
+<!--언어통계 카드-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
+<!--레포지토리 카드-->
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
-
+<!--깃허브 상태 카드-->
   [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
 
