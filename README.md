@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </br>
 
   ## 💻 Skill
-  <div align="left">
+  <div align="CENTER">
     <!--<h3>Languages</h3>-->
     <h3>
     <!--HTML5 로고-->
