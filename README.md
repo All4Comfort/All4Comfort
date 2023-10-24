@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <!--<h3>Languages</h3>-->
     <h3>
     <!--HTML5 로고-->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height=15/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height=20/>
     <!--css3 로고-->
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <!--자바스크립트 로고-->
