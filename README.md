@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="images\github-header-bigger.png"/>
+![Header](images\github-header-bigger.png)
+
 <div align="center">
 
 ## 👋 Hi, I'm Han Ul 
