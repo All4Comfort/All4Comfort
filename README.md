@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div background-color="black">
+<div style="background-color:black">
 <img src="images\github-header.png"/>
 <h1 color="white">👋 안녕하세요. 이한울입니다.</h1>
 <div><h3 color="white">🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</h3>
