@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 👋 Hi, I'm Han Ul 🌱
-  <p style="font-size:'15px';">
-    일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!!</br>
-    공부는 계속됩니다 🐾😎
+  <p style="font-family;">
+    I am a beginner developer.</br>
+    I want to develop programs through that we feel more comfortable in our everyday lives.🐾</br>
+    Until that day, I'll keep studying.😎
   </p>
-  </br>
+  
 
   ## 💻 Skill
   <div align="CENTER">
