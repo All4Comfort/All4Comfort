@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="images\github-header-bigger.png"/>
+
 <h1>👋 안녕하세요. 이한울입니다.</h1>
 <div><h4>🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
 공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
