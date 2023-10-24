@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&theme=shadow_red&count_private = true)](https://github.com/All4Comfort/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red))](https://github.com/All4Comfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&include_all_commits=true&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)-->
