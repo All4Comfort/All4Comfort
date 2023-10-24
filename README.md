@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="images\github-header-bigger.png"/>
-
 <div align="center">
-
   <h3>
     🌱 개발자를 꿈꾸며 하나씩 배워나가는 중입니다.🐾</br>
     일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!!</br>
@@ -68,7 +66,7 @@ Here are some ideas to get you started:
 [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)-->
