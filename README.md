@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 공부해온 것들로 작은 프로젝트부터 차근차근 만들고 있습니다.</br>
 일상을 조금 더 편리하게 해줄 기발한 프로그램을 제작하는 날까지!!</br>공부는 계속됩니다 😎</h3>
 </br>
-<div align="left">
-## 💻 Skill
 
+## 💻 Skill
+<div align="left">
 <!--<h3>Languages</h3>-->
 <h3>
 <!--HTML5 로고-->
