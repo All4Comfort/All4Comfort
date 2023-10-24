@@ -40,12 +40,10 @@ Here are some ideas to get you started:
     <!--스프링부트 로고-->
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     </h3>
-
     <h3>
     <!--자바 로고-->
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
     </h3>
-
     <h3>
     <!--마리아 DB 로고-->
     <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
@@ -58,7 +56,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
     <!--VS코드 로고-->
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></h3>
-
     <!--<h3>형상 관리</h3>-->
     <h3>
     <!--깃 로고-->
@@ -68,8 +65,7 @@ Here are some ideas to get you started:
     </hr>
   </div>
 
-[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&
-bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
+[![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)
