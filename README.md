@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![Header](./images/github-header-bigger.png)
 
-<div align="center">
+<div align="left">
 
   ## 👋 Hi, I'm Han Ul  
   
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   </br>
 </div>
 
-<div align="center"></div>
+<div align="left"></div>
 
-<div align="center">
+<div align="left"></div>
 
   ## 💻 Study
   <!--<h3>Languages</h3>-->
@@ -73,9 +73,10 @@ Here are some ideas to get you started:
   </hr>
 </div>
 
-<div align="center">
+<div align="left">
 <!--깃허브 상태 카드-->
-  [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/github-readme-stats)
+
+  [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats)
 
 <!--언어통계 카드-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats)
