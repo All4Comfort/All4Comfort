@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   </br>
   
 
-  ## 💻 Skill
-  <div align="CENTER">
+  ## 💻 Study
+  <div align="CENTER"></div>
     <!--<h3>Languages</h3>-->
     <h3>
     <!--HTML5 로고-->
