@@ -83,10 +83,18 @@ Here are some ideas to get you started:
 <div align="left">
 <!--깃허브 상태 카드-->
 
-  [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)](https://github.com/All4Comfort/github-readme-stats)
+  <!-- [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)](https://github.com/All4Comfort/github-readme-stats) -->
+
+  <a href="https://github.com/All4Comfort/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)" />
+</a>
 
 <!--언어통계 카드-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats) -->
+
+<a href="https://github.com/All4Comfort/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" />
+</a>
 
 <!--레포지토리 카드-->
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/All4Comfort/FestivalBoard)
