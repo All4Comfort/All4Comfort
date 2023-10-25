@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
   ## 👋 Hi, I'm Han Ul  
   
-  <h3>🌱 I am a beginner developer.</h3>
-  <h3>I want to develop programs through that users feel more comfortable in everyday lives.😎</h3>
-  <h3>Until that day, I'll keep studying.🐾</h3>
-  </br>
+  <b>
+  <p>🌱 I am a beginner developer.</p>
+  <p>I want to develop programs through that users feel more comfortable in everyday lives.😎</p>
+  <p>Until that day, I'll keep studying.🐾</p>
+  </b>
 
   <!--방문자 수 배지-->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%2345A4C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -86,7 +87,7 @@ Here are some ideas to get you started:
   <!-- [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)](https://github.com/All4Comfort/github-readme-stats) -->
 
   <a href="https://github.com/All4Comfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStars,Contributedto)" />
 </a>
 
 <!--언어통계 카드-->
