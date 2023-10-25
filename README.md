@@ -14,22 +14,24 @@ Here are some ideas to get you started:
 -->
 ![Header](./images/github-header-bigger.png)
 
-<div align="left">
 
   ## 👋 Hi, I'm Han Ul  
   
+<div align="left" style="font-size:1.2rem;">
   <b>
   <p>🌱 I am a beginner developer.</p>
   <p>I want to develop programs through that users feel more comfortable in everyday lives.😎</p>
   <p>Until that day, I'll keep studying.🐾</p>
   </b>
+</div>
+
+<div align="center">
 
   <!--방문자 수 배지-->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%2345A4C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  </br>
 </div>
+  </br>
 
-<div align="left"></div>
 
 
   ## 💻 Stacks
