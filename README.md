@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats) -->
 
 <a href="https://github.com/All4Comfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=500/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=400/>
 </a>
 
 <!--레포지토리 카드-->
