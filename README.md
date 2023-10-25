@@ -18,11 +18,9 @@ Here are some ideas to get you started:
   ## 👋 Hi, I'm Han Ul  
   
 <div align="left" style="font-size:1.2rem;">
-  <b>
-  <p>🌱 I am a beginner developer.</p>
-  <p>I want to develop programs through that users feel more comfortable in everyday lives.😎</p>
-  <p>Until that day, I'll keep studying.🐾</p>
-  </b>
+  <h4>🌱 I am a beginner developer.</h4>
+  <h4>I want to develop programs through that users feel more comfortable in everyday lives.😎</h4>
+  <h4>Until that day, I'll keep studying.🐾</h4>
 </div>
 
 <div align="center">
