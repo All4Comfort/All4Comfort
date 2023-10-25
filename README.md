@@ -85,14 +85,14 @@ Here are some ideas to get you started:
   <!-- [![HanUl's GitHub stats](https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&include_all_commits=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=TotalStarsEarned)](https://github.com/All4Comfort/github-readme-stats) -->
 
   <a href="https://github.com/All4Comfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=Total_Stars,Contributed_to)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=All4Comfort&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true&hide=Total_Stars,Contributed_to)" width=400/>
 </a>
 
 <!--언어통계 카드-->
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/All4Comfort/github-readme-stats) -->
 
 <a href="https://github.com/All4Comfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=400/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=350/>
 </a>
 
 <!--레포지토리 카드-->
