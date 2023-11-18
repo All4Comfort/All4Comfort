@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 
 
-<p><a href="https://hanul-lee.notion.site/93825de3665e42d79ea8186e01dca7b2?pvs=4">이한울의 노션</a></p>
+<p><a href="https://hanul2.notion.site/93825de3665e42d79ea8186e01dca7b2?pvs=4">이한울의 노션</a></p>
 
 
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&exclude_repo=All4Comfort,desktop-tutorial&theme=shadow_red)](https://github.com/All4Comfort/github-readme-stats)-->
